@@ -1,0 +1,508 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "id": "8fea9fc2-b66f-41c2-8fac-0b979f4c1f04",
+      "name": "fb",
+      "email": "huyb5722@gmail.com",
+      "passwordSalt": "936468ffdd5a857d13209c37410e2739",
+      "passwordHash": "6e03afdb9429f4fe0bd1af61158b54f95fe7e1bfd3fe2fa5c4cee73bfc8b6ffbd985e94b56fe9e5d3a2d03cb95f5039ec06c08b0a4deeab01d019cdce1fcc79a",
+      "createdAt": "2026-10-24T04:40:18.920Z",
+      "updatedAt": "2026-11-03T08:18:18.636Z",
+      "dataConsentAt": "2026-10-24T04:40:18.920Z",
+      "profile": {
+        "preferences": {
+          "monthlyBudget": 300000,
+          "budgetConfigured": true,
+          "mealsPerDay": 2,
+          "people": 1,
+          "healthGoal": "balanced",
+          "tastes": [
+            "Western"
+          ],
+          "preferredMealTypes": [],
+          "allergies": [],
+          "favoriteIngredients": [
+            "thịt heo"
+          ],
+          "favoriteDishes": [],
+          "customAvoidIngredients": [],
+          "cookingSetup": "full"
+        },
+        "pantry": [
+          {
+            "id": "milk",
+            "quantity": 1,
+            "addedAt": "2026-11-03T07:19:34.365Z"
+          },
+          {
+            "id": "pork",
+            "quantity": 1,
+            "addedAt": "2026-11-03T07:27:23.313Z"
+          }
+        ],
+        "plan": {
+          "2026-10-17": [
+            {
+              "recipeId": "stir-fried-cabbage",
+              "mealType": "lunch",
+              "addedAt": "2026-10-17T15:21:56.287Z"
+            }
+          ],
+          "2026-11-02": [
+            {
+              "recipeId": "x056",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.547Z"
+            },
+            {
+              "recipeId": "x069",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.548Z"
+            }
+          ],
+          "2026-11-03": [
+            {
+              "recipeId": "x131",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.548Z"
+            },
+            {
+              "recipeId": "x057",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.548Z"
+            }
+          ],
+          "2026-11-04": [
+            {
+              "recipeId": "x110",
+              "mealType": "lunch",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.549Z"
+            },
+            {
+              "recipeId": "x070",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.549Z"
+            }
+          ],
+          "2026-11-05": [
+            {
+              "recipeId": "x064",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.563Z"
+            },
+            {
+              "recipeId": "x073",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.570Z"
+            }
+          ],
+          "2026-11-06": [
+            {
+              "recipeId": "x072",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.578Z"
+            },
+            {
+              "recipeId": "x079",
+              "mealType": "snack",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.583Z"
+            }
+          ],
+          "2026-11-07": [
+            {
+              "recipeId": "x067",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.589Z"
+            },
+            {
+              "recipeId": "x011",
+              "mealType": "lunch",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.595Z"
+            }
+          ],
+          "2026-11-08": [
+            {
+              "recipeId": "x060",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.600Z"
+            },
+            {
+              "recipeId": "x020",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T07:16:47.604Z"
+            }
+          ]
+        },
+        "availability": {
+          "0": "free",
+          "1": "busy",
+          "2": "free",
+          "3": "free",
+          "4": "busy",
+          "5": "free",
+          "6": "free"
+        },
+        "expenses": [
+          {
+            "id": "8aab5e14-88f6-4e4a-b73c-9a8624c5ed12",
+            "amount": 200000,
+            "category": "market",
+            "date": "2026-10-17",
+            "note": "trứng rau thịt",
+            "createdAt": "2026-10-21T00:25:02.310Z"
+          }
+        ],
+        "drawHistory": [
+          {
+            "id": "egg",
+            "at": "2026-10-21T00:01:18.927Z"
+          },
+          {
+            "id": "egg",
+            "at": "2026-10-21T00:26:26.608Z"
+          },
+          {
+            "id": "rice",
+            "at": "2026-11-03T05:35:00.771Z"
+          },
+          {
+            "id": "instant-noodle",
+            "at": "2026-11-03T05:38:24.181Z"
+          },
+          {
+            "id": "ginger",
+            "at": "2026-11-03T06:41:16.802Z"
+          }
+        ],
+        "appearance": {
+          "fontSize": "normal",
+          "fontScale": 105,
+          "fontScaleBaselineUpdated": true,
+          "theme": "custom",
+          "customColor": "#51bf6c",
+          "mascot": {
+            "x": 1374.12451171875,
+            "y": 114.5245132446289
+          }
+        },
+        "lastActiveAt": "2026-11-03T08:18:18.635Z"
+      }
+    },
+    {
+      "id": "c4380351-e753-42ed-8b9c-8c64ac727e31",
+      "name": "Lê Huy",
+      "email": "truonghuyle53@gmail.com",
+      "passwordSalt": "85b86c7697355fe7d822c0251af0ef56",
+      "passwordHash": "58fbfdfcba24a8305cf41e3f73b7b6099c396c7e7a0350207c572badcba33e83857cdb230d63d65285e3716c1bb4caf3741d778c988f0983c628ddc2516aa599",
+      "createdAt": "2026-11-03T08:20:48.934Z",
+      "updatedAt": "2026-11-03T08:54:25.880Z",
+      "dataConsentAt": "2026-11-03T08:20:48.934Z",
+      "profile": {
+        "preferences": {
+          "monthlyBudget": 2000000,
+          "budgetConfigured": true,
+          "mealsPerDay": 2,
+          "people": 2,
+          "healthGoal": "balanced",
+          "tastes": [
+            "Vietnamese"
+          ],
+          "preferredMealTypes": [],
+          "allergies": [],
+          "favoriteIngredients": [],
+          "favoriteDishes": [],
+          "customAvoidIngredients": [],
+          "cookingSetup": "full"
+        },
+        "pantry": [
+          {
+            "id": "rice",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "instant-noodle",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "rice-noodle",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "egg",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "pork",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "cheese",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "milk",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "pasta",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "sweet-potato",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "cabbage",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "cucumber",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "ginger",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "garlic",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "lime",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "sugar",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "salt",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "oil",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "bok-choy",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "duck-egg",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "bean-sprouts",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "turmeric",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "oyster-sauce",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          },
+          {
+            "id": "basil",
+            "quantity": 1,
+            "addedAt": "2026-11-03T08:22:31.469Z"
+          }
+        ],
+        "plan": {
+          "2026-11-02": [
+            {
+              "recipeId": "coconut-pumpkin-curry",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.363Z"
+            },
+            {
+              "recipeId": "chicken-porridge",
+              "mealType": "breakfast",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.369Z"
+            }
+          ],
+          "2026-11-03": [
+            {
+              "recipeId": "stir-fried-cabbage",
+              "mealType": "lunch",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.374Z"
+            },
+            {
+              "recipeId": "tomato-egg",
+              "mealType": "breakfast",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.379Z"
+            }
+          ],
+          "2026-11-04": [
+            {
+              "recipeId": "banh-mi-egg",
+              "mealType": "breakfast",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.383Z"
+            },
+            {
+              "recipeId": "omelette-scallion",
+              "mealType": "breakfast",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.387Z"
+            }
+          ],
+          "2026-11-05": [
+            {
+              "recipeId": "pork-caramel",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.391Z"
+            },
+            {
+              "recipeId": "x045",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.394Z"
+            }
+          ],
+          "2026-11-06": [
+            {
+              "recipeId": "fresh-spring-rolls",
+              "mealType": "snack",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.395Z"
+            },
+            {
+              "recipeId": "egg-fried-rice",
+              "mealType": "lunch",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.396Z"
+            }
+          ],
+          "2026-11-07": [
+            {
+              "recipeId": "x095",
+              "mealType": "breakfast",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.397Z"
+            },
+            {
+              "recipeId": "tomato-beef-soup",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.398Z"
+            }
+          ],
+          "2026-11-08": [
+            {
+              "recipeId": "cabbage-tofu-rolls",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.399Z"
+            },
+            {
+              "recipeId": "x007",
+              "mealType": "dinner",
+              "source": "week-suggestion",
+              "generatedAt": "2026-11-03T08:23:22.401Z"
+            }
+          ]
+        },
+        "availability": {
+          "0": "free",
+          "1": "free",
+          "2": "busy",
+          "3": "busy",
+          "4": "free",
+          "5": "busy",
+          "6": "busy"
+        },
+        "expenses": [
+          {
+            "id": "a98090dd-8105-4640-ab1b-a89db73d3f68",
+            "amount": 1000000,
+            "category": "food",
+            "date": "2026-11-03",
+            "note": "trứng rau thịt",
+            "createdAt": "2026-11-03T08:48:51.394Z"
+          },
+          {
+            "id": "bc6639f8-5abe-4907-a2dc-8ba4e92d447a",
+            "amount": 750000,
+            "category": "food",
+            "date": "2026-11-03",
+            "note": "thịt",
+            "createdAt": "2026-11-03T08:49:14.069Z"
+          },
+          {
+            "id": "dc7f3b9d-5b7c-4e82-9519-19ba8fbcf8be",
+            "amount": 50000,
+            "category": "market",
+            "date": "2026-11-03",
+            "note": "thịt",
+            "createdAt": "2026-11-03T08:50:09.461Z"
+          }
+        ],
+        "drawHistory": [
+          {
+            "id": "papaya",
+            "at": "2026-11-03T08:39:49.250Z"
+          },
+          {
+            "id": "coconut-milk",
+            "at": "2026-11-03T08:40:45.578Z"
+          }
+        ],
+        "appearance": {
+          "fontSize": "normal",
+          "fontScale": 110,
+          "fontScaleBaselineUpdated": true,
+          "theme": "sage",
+          "customColor": "",
+          "mascot": null
+        },
+        "lastActiveAt": "2026-11-03T08:54:25.880Z"
+      }
+    }
+  ],
+  "events": [],
+  "nearbyFeedback": []
+}
